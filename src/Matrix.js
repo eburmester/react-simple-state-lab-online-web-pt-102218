@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import Cell from '/'
 export default class Matrix extends Component {
   
   genRow = (vals) => (
